@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import EventService from '@/services/EventService'
+import EventService from "@/services/EventService";
 
 export default {
   props: ['id'],
